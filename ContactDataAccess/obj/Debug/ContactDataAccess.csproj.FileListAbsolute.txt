@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\ContactDataAccess\bin\Debug\ContactDataAccess.dll
+C:\Users\ACER\source\repos\ContactDataAccess\bin\Debug\ContactDataAccess.pdb
+C:\Users\ACER\source\repos\ContactDataAccess\obj\Debug\ContactDataAccess.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ContactDataAccess\obj\Debug\ContactDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ContactDataAccess\obj\Debug\ContactDataAccess.dll
+C:\Users\ACER\source\repos\ContactDataAccess\obj\Debug\ContactDataAccess.pdb
