@@ -9,3 +9,8 @@ The project demonstrates **CRUD operations** using **3-tier architecture** desig
 - **Business Layer (BLL):** Implements business rules and logic.
 
 - **Presentation Layer (UI):** Windows Forms for user interaction.
+
+![Contact List ](ContactList.png)
+
+
+  ![Add Contact](AddContact.png)           |          ![Edit Contact](EditContact.png)
